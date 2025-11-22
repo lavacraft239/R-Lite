@@ -21,3 +21,7 @@ It is faster and smaller than traditional SSH servers like Dropbear.
 ## Installation  
   
 1. Download the binary from the [Releases](https://github.com/lavacraft239/R-Lite/releases) page.  
+
+2. Move archive in home
+
+3. Execute archive ``./rlite``
